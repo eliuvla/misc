@@ -5,8 +5,8 @@
 
 
 struct Rhythmic{
-	Sound kick = LoadSound("resources/meow.mp3");
-	Sound clap = LoadSound("resources/gua.mp3");
+	Sound kick = LoadSound("resources/kick.mp3");
+	Sound clap = LoadSound("resources/clap.mp3");
 	
 	
 	int width = 640;
